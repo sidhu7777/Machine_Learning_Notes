@@ -1,0 +1,47 @@
+﻿# Python environments
+.venv/
+venv/
+venv
+ENV/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+.aws/
+
+# Python cache/build files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+.ipython/
+
+# Local dataset caches / generated temporary data
+# Keep intentional teaching CSV files in the repo, but ignore downloaded cache folders.
+datasets/sklearn_data/
+modules/datasets/
+
+# Temporary helper files
+_tmp*/
+tmp*/
+*.tmp
+*.temp
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

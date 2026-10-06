@@ -1,0 +1,271 @@
+{
+  "original_unchanged": true,
+  "original_lesson_cells": 78,
+  "versions": {
+    "pandas": "2.2.3",
+    "numpy": "2.2.1",
+    "scipy": "1.15.1",
+    "sklearn": "1.5.2",
+    "matplotlib": "3.10.0",
+    "seaborn": "0.13.2",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2",
+    "plotly": "6.3.0",
+    "bokeh": "3.6.3"
+  },
+  "notebooks": [
+    {
+      "file": "Module_01_Mathematical_Foundations_and_EDA.ipynb",
+      "schema_valid": true,
+      "code_cells": 11,
+      "execution": "passed in fresh kernel",
+      "rendered_static_figures": 10
+    },
+    {
+      "file": "Module_02_Data_Visualization_and_Graphical_Analysis.ipynb",
+      "schema_valid": true,
+      "code_cells": 11,
+      "execution": "passed in fresh kernel",
+      "rendered_static_figures": 9
+    },
+    {
+      "file": "Module_03_Data_Handling_and_Preprocessing.ipynb",
+      "schema_valid": true,
+      "code_cells": 7,
+      "execution": "passed in fresh kernel"
+    },
+    {
+      "file": "Module_04_Feature_Engineering_and_Dimensionality_Reduction.ipynb",
+      "schema_valid": true,
+      "code_cells": 9,
+      "execution": "passed in fresh kernel"
+    },
+    {
+      "file": "Module_05_Generalization_Validation_and_Regularization.ipynb",
+      "schema_valid": true,
+      "code_cells": 2,
+      "execution": "passed in fresh kernel"
+    },
+    {
+      "file": "Module_06_Supervised_Learning.ipynb",
+      "schema_valid": true,
+      "code_cells": 0,
+      "execution": "outline only; no code to execute"
+    },
+    {
+      "file": "Module_07_Unsupervised_Learning.ipynb",
+      "schema_valid": true,
+      "code_cells": 0,
+      "execution": "outline only; no code to execute"
+    },
+    {
+      "file": "Module_08_Semi_Supervised_Self_Supervised_and_Active_Learning.ipynb",
+      "schema_valid": true,
+      "code_cells": 0,
+      "execution": "outline only; no code to execute"
+    },
+    {
+      "file": "Module_09_Reinforcement_Learning_Foundations.ipynb",
+      "schema_valid": true,
+      "code_cells": 0,
+      "execution": "outline only; no code to execute"
+    },
+    {
+      "file": "Module_10_Explainable_AI_and_Specialized_Models.ipynb",
+      "schema_valid": true,
+      "code_cells": 0,
+      "execution": "outline only; no code to execute"
+    }
+  ],
+  "mapped_lesson_cells": 78,
+  "markdown_math_delimiters_checked": true,
+  "original_lesson_cells_mapped_exactly_once": true,
+  "probability_examples_verified": true,
+  "visuals_added_to_modules": [
+    1,
+    2
+  ],
+  "interactive_browser_checks": {
+    "browser": "Microsoft Edge (headless)",
+    "plotly": "dropdown and hover passed",
+    "bokeh": "slider and displayed count passed",
+    "javascript_errors": []
+  },
+  "visual_review_completed": true,
+  "module_1_online_visual_replacement": {
+    "notebook": "modules/Module_01_Mathematical_Foundations_and_EDA.ipynb",
+    "code_cells": 1,
+    "markdown_cells": 60,
+    "embedded_online_image_placements": 19,
+    "unique_online_images": 18,
+    "sources_manifest": "modules/images/module01/sources.json",
+    "module_2_unchanged_during_replacement": true,
+    "notes": "Generated plotting cells in Module 1 were replaced with embedded online reference images and source/license credits. Module 2 visualization lessons were not edited.",
+    "html_export_check": "passed; temporary preview cleaned up",
+    "browser_image_render_check": {
+      "image_tags": 19,
+      "loaded_images": 19,
+      "broken_images": 0
+    }
+  },
+  "module_3_step_4_revision": {
+    "notebook": "modules/Module_03_Data_Handling_and_Preprocessing.ipynb",
+    "cells_updated": [
+      "m03-cell-018",
+      "m03-cell-019",
+      "m03-cell-020"
+    ],
+    "focus": "Rewritten as a simpler learning flow: data quality checks, schema validation, data drift, concept drift, outliers, imbalanced data, SMOTE, Tomek Links, ENN, NearMiss.",
+    "notebook_validation": "passed"
+  },
+  "module_4_rebuild": {
+    "notebook": "modules/Module_04_Feature_Engineering_and_Dimensionality_Reduction.ipynb",
+    "cell_count": 13,
+    "code_cells": 5,
+    "duplicate_feature_selection_blocks_removed": true,
+    "outline_coverage_check": "passed; all core outline terms from Module 4 structure are present",
+    "execution": "passed; Windows/IPython permission warnings only"
+  },
+  "module_5_rebuild": {
+    "notebook": "modules/Module_05_Generalization_Validation_and_Regularization.ipynb",
+    "cell_count": 12,
+    "code_cells": 4,
+    "outline_coverage_check": "passed; all core Module 5 outline terms are present",
+    "execution": "passed; Windows/IPython permission warnings only",
+    "focus": "Rebuilt generic single-section content into complete validation, metrics, cross-validation, hyperparameter optimization, regularization, and calibration flow."
+  },
+  "module_5_reordered_revision": {
+    "notebook": "modules/Module_05_Generalization_Validation_and_Regularization.ipynb",
+    "cell_count": 14,
+    "code_cells": 5,
+    "execution": "passed; Windows/IPython permission warnings only",
+    "changes": "Reordered to generalization, leakage, regression metrics, classification metrics, cross-validation basics, and regularization. Removed premature deep hyperparameter optimization and calibration sections."
+  },
+  "module_6_rebuild": {
+    "notebook": "modules/Module_06_Supervised_Learning.ipynb",
+    "cell_count": 15,
+    "code_cells": 6,
+    "execution": "passed; Windows/IPython permission warnings only",
+    "outline_coverage_check": "passed; all core Module 6 algorithm outline terms are present",
+    "changes": "Built complete supervised learning module with algorithm explanations, dataset examples, ensembles, boosting ecosystem, and algorithm-specific hyperparameters after algorithms."
+  },
+  "module_6_algorithm_by_algorithm_revision": {
+    "notebook": "modules/Module_06_Supervised_Learning.ipynb",
+    "cell_count": 41,
+    "code_cells": 13,
+    "execution": "passed; Windows/IPython permission warnings only",
+    "changes": "Reworked Module 6 so each algorithm has its own explanation, code example, and result interpretation before the next algorithm starts."
+  },
+  "module_6_online_visuals": {
+    "notebook": "modules/Module_06_Supervised_Learning.ipynb",
+    "visual_cells": 9,
+    "embedded_online_image_placements": 10,
+    "sources_manifest": "modules/images/module06/sources.json",
+    "render_check": {
+      "image_tags": 10,
+      "loaded_images": 10,
+      "broken_images": 0
+    },
+    "notes": "Added sourced online diagrams directly after related algorithm explanations; code examples unchanged after visual insertion.",
+    "decision_tree_visual_replaced": "Replaced generic shape-tree image with Recursive Splitting decision-tree diagram.",
+    "unclear_visuals_revised": [
+      "decision_tree",
+      "naive_bayes",
+      "random_forest"
+    ]
+  },
+  "module_6_hyperparameter_revision": {
+    "notebook": "modules/Module_06_Supervised_Learning.ipynb",
+    "execution": "passed; Windows/IPython permission warnings only",
+    "changes": "Expanded generic hyperparameter table into algorithm-specific explanations for regression/logistic, polynomial, KNN, Naive Bayes, SVM, decision trees, forests, and boosting, with tuning examples for KNN, tree depth, and logistic C."
+  },
+  "module_7_rebuild": {
+    "notebook": "modules/Module_07_Unsupervised_Learning.ipynb",
+    "cell_count": 12,
+    "code_cells": 4,
+    "execution": "passed; Windows/IPython permission warnings only",
+    "outline_coverage_check": "passed; K-Means, validation metrics, hierarchical/DBSCAN/HDBSCAN, GMM, anomaly detection, and association-rule concepts included."
+  },
+  "module_8_rebuild": {
+    "status": "passed",
+    "notebook": "modules/Module_08_Semi_Supervised_Self_Supervised_and_Active_Learning.ipynb",
+    "checked_at": "2026-10-04T17:09:47",
+    "execution": "passed",
+    "cells": 19,
+    "code_cells": 8,
+    "outputs": 19,
+    "plot_images": 2,
+    "missing_outline_terms": []
+  },
+  "module_10_rebuild": {
+    "status": "passed",
+    "notebook": "modules/Module_10_Explainable_AI_and_Specialized_Models.ipynb",
+    "checked_at": "2026-10-04T17:09:47",
+    "execution": "passed",
+    "cells": 29,
+    "code_cells": 12,
+    "outputs": 27,
+    "plot_images": 6,
+    "missing_outline_terms": []
+  },
+  "module_7_dataset_specific_revision": {
+    "notebook": "modules/Module_07_Unsupervised_Learning.ipynb",
+    "cell_count": 22,
+    "code_cells": 7,
+    "image_outputs": 8,
+    "execution": "passed; Windows/IPython permission warnings only",
+    "changes": "Rebuilt Module 7 with separate appropriate teaching datasets: blobs for K-Means/hierarchical, moons with noise for DBSCAN, overlapping blobs for GMM, normal cloud plus outliers for anomaly detection, and basket transactions for association rules."
+  },
+  "module_7_real_dataset_revision": {
+    "notebook": "modules/Module_07_Unsupervised_Learning.ipynb",
+    "dataset": "Covertype from scikit-learn, cached inside datasets/sklearn_data, 10,000 sampled records used in notebook",
+    "environment": ".venv project-local environment",
+    "cell_count": 30,
+    "code_cells": 11,
+    "outputs": 19,
+    "image_outputs": 8,
+    "execution": "passed using .venv; Windows/IPython permission warnings only",
+    "models_implemented": [
+      "K-Means",
+      "MiniBatch K-Means",
+      "Agglomerative clustering",
+      "DBSCAN",
+      "Gaussian Mixture Model",
+      "Isolation Forest",
+      "Local Outlier Factor",
+      "One-Class SVM",
+      "Association rule metrics"
+    ],
+    "metrics_included": [
+      "Silhouette",
+      "Davies-Bouldin",
+      "ARI",
+      "NMI",
+      "Inertia",
+      "anomaly counts",
+      "support/confidence/lift/conviction"
+    ]
+  },
+  "module_6_outline_deep_dive": {
+    "status": "passed",
+    "notebook": "modules/Module_06_Supervised_Learning.ipynb",
+    "checked_at": "2026-10-04T16:59:17",
+    "execution": "passed",
+    "cells": 51,
+    "code_cells": 13,
+    "outputs": 27,
+    "plot_images": 0,
+    "missing_outline_terms": []
+  },
+  "module_7_outline_deep_dive": {
+    "status": "passed",
+    "notebook": "modules/Module_07_Unsupervised_Learning.ipynb",
+    "checked_at": "2026-10-04T16:59:17",
+    "execution": "passed",
+    "cells": 33,
+    "code_cells": 12,
+    "outputs": 23,
+    "plot_images": 9,
+    "missing_outline_terms": []
+  }
+}

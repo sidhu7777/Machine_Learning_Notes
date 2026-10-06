@@ -1,0 +1,1464 @@
+[
+  {
+    "title": "File:Binomial distribution pmf.svg",
+    "filename": "Binomial_distribution_pmf.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Binomial_distribution_pmf.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Binomial_distribution_pmf.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-04-03 13:50:56",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Binomial distribution pmf",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Binomial distributions|Self-published work|PD-self",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Binomial distribution probability mass function",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-03-02",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tayste\" title=\"User:Tayste\">Tayste</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Comparison mean median mode.svg",
+    "filename": "Comparison_mean_median_mode.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Comparison_mean_median_mode.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Comparison_mean_median_mode.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-08-20 07:55:44",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Comparison mean median mode",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Central tendency (statistics)|License migration redundant|Self-published work|Invalid SVG created with Inkscape|Translation possible - SVG",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Comparison of <a href=\"https://en.wikipedia.org/wiki/mean\" class=\"extiw\" title=\"w:mean\">mean</a>, <a href=\"https://en.wikipedia.org/wiki/median\" class=\"extiw\" title=\"w:median\">median</a> and <a href=\"https://en.wikipedia.org/wiki/mode_(statistics)\" class=\"extiw\" title=\"w:mode (statistics)\">mode</a> of two <a href=\"https://en.wikipedia.org/wiki/log-normal_distribution\" class=\"extiw\" title=\"w:log-normal distribution\">log-normal distributions</a> with different <a href=\"https://en.wikipedia.org/wiki/skewness\" class=\"extiw\" title=\"w:skewness\">skewness</a>.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2011",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cmglee\" title=\"User:Cmglee\">Cmglee</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cmglee\" title=\"User:Cmglee\">Cmglee</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Correlation examples.png",
+    "filename": "Correlation_examples.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Correlation_examples.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Correlation_examples.png",
+    "metadata": {
+      "DateTime": {
+        "value": "2010-02-02 09:33:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Correlation examples",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "PD-user|Correlation|Images with Mathematica source code|Vector version available|PNG created with Mathematica",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "See below.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "8 December 2007 (original upload date)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Jtneill\" title=\"User:Jtneill\">jtneill</a>.</bdi> <div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Mathematica_Logo.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/20px-Mathematica_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"17\" height=\"18\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/40px-Mathematica_Logo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"190\" data-file-height=\"198\"></a></span>\u00a0This  diagram was created with <a href=\"https://en.wikipedia.org/wiki/en:Wolfram_Mathematica\" class=\"extiw\" title=\"w:en:Wolfram Mathematica\"><span title=\"computational software program\">Mathematica</span></a>.</div>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:Imagecreator\" class=\"extiw\" title=\"wikipedia:User:Imagecreator\">Imagecreator</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Exponential probability density.svg",
+    "filename": "Exponential_probability_density.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Exponential_probability_density.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Exponential_probability_density.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-11-21 17:24:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Exponential probability density",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Probability distributions|Statistics|Self-published work|GNU R plots|Boltzmann distribution",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "plot of the probability density function of the exponential distribution for rate (lambda) equal to 0.5, 1 or 1.5",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-07-12",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Newystats\" title=\"User:Newystats\">Newystats</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Lognormal distribution PDF.svg",
+    "filename": "Lognormal_distribution_PDF.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Lognormal_distribution_PDF.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lognormal_distribution_PDF.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-01-22 00:31:33",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Lognormal distribution PDF",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|License migration redundant|Log-normal distribution|Self-published work|Translation possible - SVG|Valid SVG created with Gnuplot|Uploaded with derivativeFX|Vectorizations",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<pre>set term svg size 1024,768\nset key Left top left reverse\nset xtics auto nomirror\nset ytics auto nomirror\nset mxtics 10\nset mytics 10\nset border 3\nset samples 10000\npdf(x,sigma,mu)=((1/(x*sqrt(2*pi*sigma**2))) * exp((-(log(x)-mu)**2)/(2*sigma**2)))\n\nset output \"/tmp/Lognormal distribution PDF.svg\"\nplot [0:3] [0:2] \n\t(pdf(x,10,0)) title \"\u03c3=10\", \n\t(pdf(x,3.0/2,0)) title \"\u03c3=3/2\", \n\t(pdf(x,1.0,0)) title \"\u03c3=1\", \n\t(pdf(x,1.0/2,0)) title \"\u03c3=1/2\", \n\t(pdf(x,1.0/4,0)) title \"\u03c3=1/4\", \n\t(pdf(x,1.0/8,0)) title \"\u03c3=1/8\" \n</pre>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-06-26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Own work based on: <a href=\"//commons.wikimedia.org/wiki/File:Lognormal_distribution_PDF.png\" title=\"File:Lognormal distribution PDF.png\">Lognormal distribution PDF.png</a>\u00a0<i>by</i> <a href=\"//commons.wikimedia.org/w/index.php?title=User:PAR&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:PAR (page does not exist)\">PAR</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Original:</div> <div style=\"display:inline-block;padding:3px 0;\"><a href=\"//commons.wikimedia.org/wiki/User:PAR~commonswiki\" title=\"User:PAR~commonswiki\">PAR</a></div>\u2002<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\"><a href=\"//commons.wikimedia.org/wiki/User:Autopilot\" title=\"User:Autopilot\">Autopilot</a></div>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Normal normal qq.svg",
+    "filename": "Normal_normal_qq.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Normal_normal_qq.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Normal_normal_qq.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2009-10-20 03:17:32",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Normal normal qq",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Q-Q plot|Self-published work|Path text SVG|Valid SVG created with Matplotlib",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Normal quantile plot of a sample of 100 independent data values following a standard normal distribution.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-10-19",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User_talk:Skbkekas\" title=\"User talk:Skbkekas\">Skbkekas</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Standard deviation diagram.svg",
+    "filename": "Standard_deviation_diagram.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Standard_deviation_diagram.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Standard_deviation_diagram.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2015-01-15 02:06:54",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Standard deviation diagram",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Standard normal distribution|68\u201395\u201399.7 rule|Valid SVG created with R|Diagrams labelled with numbers only",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Normal_distribution\" class=\"extiw\" title=\"w:Normal distribution\">Normal distribution</a> curve that illustrates <a href=\"https://en.wikipedia.org/wiki/Standard_deviation\" class=\"extiw\" title=\"w:Standard deviation\">standard deviations</a>. Each band has 1 standard deviation, and the labels indicate the approximate proportion of area (note: these add up to 99.8%, and not 100% because of rounding for presentation.)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2007-04-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, based (in concept) on figure by Jeremy Kemp, on 2005-02-09",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mwtoews\" title=\"User:Mwtoews\">M. W. Toews</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.5",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.5",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.5",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Uniform Distribution PDF SVG.svg",
+    "filename": "Uniform_Distribution_PDF_SVG.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Uniform_Distribution_PDF_SVG.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Uniform_Distribution_PDF_SVG.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-03-26 15:15:51",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Uniform Distribution PDF SVG",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Created with LibreOffice Draw|Uniform distribution|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Illustration of Uniform distribution in SVG file.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2013-07-22 02:32:05",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span><div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:LibreOffice_7.5_Draw_Icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/LibreOffice_7.5_Draw_Icon.svg/40px-LibreOffice_7.5_Draw_Icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/LibreOffice_7.5_Draw_Icon.svg/60px-LibreOffice_7.5_Draw_Icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"32\" data-file-height=\"32\"></a></span>\u00a0This  <a href=\"https://en.wikipedia.org/wiki/drawing\" class=\"extiw\" title=\"w:drawing\">drawing</a> was created with <a href=\"https://en.wikipedia.org/wiki/en:LibreOffice_Draw\" class=\"extiw\" title=\"w:en:LibreOffice Draw\"><span title=\"graphics editing software\">LibreOffice Draw</span></a>.</div>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:IkamusumeFan\" title=\"User:IkamusumeFan\">IkamusumeFan</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Standard symmetric pdfs.svg",
+    "filename": "Standard_symmetric_pdfs.svg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Standard_symmetric_pdfs.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Standard_symmetric_pdfs.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-05-26 16:15:46",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Standard symmetric pdfs",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Probability distributions|Kurtosis|PD chart|Self-published work|Valid SVG created with Gnuplot code:Charts|Vectorizations",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Plot of several symmetric unimodal probability densities with unit variance. From highest to lowest peak:\n<div class=\"legend\" style=\"direction:ltr;line-height:23px;\"><div class=\"legend-content\" style=\"display:inline-block;vertical-align:top;box-sizing:border-box;width:34px;height:23px;overflow:hidden;font-size:15px;border:thin solid #333;background:red;color:#202122;text-align:center;\">\u00a0</div> red, kurtosis 3, <a href=\"https://en.wikipedia.org/wiki/Laplace_distribution\" class=\"extiw\" title=\"w:Laplace distribution\">Laplace (D)ouble exponential distribution</a>;</div>\n<div class=\"legend\" style=\"direction:ltr;line-height:23px;\"><div class=\"legend-content\" style=\"display:inline-block;vertical-align:top;box-sizing:border-box;width:34px;height:23px;overflow:hidden;font-size:15px;border:thin solid #333;background:orange;color:#202122;text-align:center;\">\u00a0</div> orange, kurtosis 2, <a href=\"https://en.wikipedia.org/wiki/hyperbolic_secant_distribution\" class=\"extiw\" title=\"w:hyperbolic secant distribution\">hyperbolic (S)ecant distribution</a>;</div>\n<div class=\"legend\" style=\"direction:ltr;line-height:23px;\"><div class=\"legend-content\" style=\"display:inline-block;vertical-align:top;box-sizing:border-box;width:34px;height:23px;overflow:hidden;font-size:15px;border:thin solid #333;background:green;color:#202122;text-align:center;\">\u00a0</div> green, kurtosis 1.2, <a href=\"https://en.wikipedia.org/wiki/logistic_distribution\" class=\"extiw\" title=\"w:logistic distribution\">(L)ogistic distribution</a>;</div>\n<div class=\"legend\" style=\"direction:ltr;line-height:23px;\"><div class=\"legend-content\" style=\"display:inline-block;vertical-align:top;box-sizing:border-box;width:34px;height:23px;overflow:hidden;font-size:15px;border:thin solid #333;background:black;color:#202122;text-align:center;\">\u00a0</div> black, kurtosis 0, <a href=\"https://en.wikipedia.org/wiki/normal_distribution\" class=\"extiw\" title=\"w:normal distribution\">(N)ormal distribution</a>;</div>\n<div class=\"legend\" style=\"direction:ltr;line-height:23px;\"><div class=\"legend-content\" style=\"display:inline-block;vertical-align:top;box-sizing:border-box;width:34px;height:23px;overflow:hidden;font-size:15px;border:thin solid #333;background:cyan;color:#202122;text-align:center;\">\u00a0</div> cyan, kurtosis \u22120.593762\u2026, <a href=\"https://en.wikipedia.org/wiki/raised_cosine_distribution\" class=\"extiw\" title=\"w:raised cosine distribution\">raised (C)osine distribution</a>;</div>\n<div class=\"legend\" style=\"direction:ltr;line-height:23px;\"><div class=\"legend-content\" style=\"display:inline-block;vertical-align:top;box-sizing:border-box;width:34px;height:23px;overflow:hidden;font-size:15px;border:thin solid #333;background:blue;color:#202122;text-align:center;\">\u00a0</div> blue, kurtosis \u22121, <a href=\"https://en.wikipedia.org/wiki/Wigner_semicircle_distribution\" class=\"extiw\" title=\"w:Wigner semicircle distribution\">(W)igner semicircle distribution</a>;</div>\n<div class=\"legend\" style=\"direction:ltr;line-height:23px;\"><div class=\"legend-content\" style=\"display:inline-block;vertical-align:top;box-sizing:border-box;width:34px;height:23px;overflow:hidden;font-size:15px;border:thin solid #333;background:magenta;color:#202122;text-align:center;\">\u00a0</div> magenta, kurtosis \u22121.2, <a href=\"https://en.wikipedia.org/wiki/uniform_distribution_(continuous)\" class=\"extiw\" title=\"w:uniform distribution (continuous)\">(U)niform distribution</a>.</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-05-26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:MarkSweep\" title=\"User:MarkSweep\">MarkSweep</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<div style=\"display:inline-block;padding:0 3px;background-color:#BDC\"><a href=\"//commons.wikimedia.org/wiki/File:Standard_symmetric_pdfs.png\" title=\"File:Standard symmetric pdfs.png\"><b>Original: </b></a></div> <div style=\"display:inline-block;padding:3px 0;\"><a href=\"//commons.wikimedia.org/wiki/User:MarkSweep\" title=\"User:MarkSweep\">MarkSweep</a></div>\u2002<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\"><a href=\"//commons.wikimedia.org/wiki/User:Andel\" title=\"User:Andel\">Andel</a></div>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Bernoulli distribution PDF.svg",
+    "filename": "Bernoulli_distribution_PDF.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bernoulli_distribution_PDF.svg/960px-Bernoulli_distribution_PDF.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bernoulli_distribution_PDF.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-02-02 05:25:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bernoulli distribution PDF",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Bernoulli distribution|Self-published work|Files uploaded by \u00c9der Porto",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A selection of Bernoulli Distribution Probability Density Functions (PDFs). The parameter p is varied.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-02-02",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ederporto\" title=\"User:Ederporto\">Ederporto</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Dis Uniform distribution PMF.svg",
+    "filename": "Dis_Uniform_distribution_PMF.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Dis_Uniform_distribution_PMF.svg/960px-Dis_Uniform_distribution_PMF.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Dis_Uniform_distribution_PMF.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-01-15 08:53:21",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Dis Uniform distribution PMF",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GPL|License migration redundant|Uniform distribution|GFDL-disclaimers|Self-published work|GFDL-en|Derivative versions|Uploaded with derivativeFX",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<p>Discrete uniform distribution (probability mass function). Generated with the following R code:\n</p>\n<pre>library(latex2exp)\nsvg(file=\"Dis_Uniform_distribution_PMF.svg\",width=4,height=3,pointsize=12)\n\npar(mar=c(3,3,1,1))\n\nn &lt;- 5\nplot(c(0,n+1),c(0,2.5/n),type=\"n\",xaxt = \"n\", yaxt=\"n\", ylab=\"\")\nfor(x in n:1)\n{\n  lines(rep(x,2),c(0,1/n),col=\"blue\",lty=2)\n  if (x&gt;0)\n  {\n    points(x,1/n,col=\"blue\",pch=19)\n  }\n}\naxis(side = 1, at = 1:n, labels = c(\"a\",\"a+1\",TeX(\"\\\\cdots\"),\"b-1\",\"b\"))\naxis(side = 2, at = c(0,1/n,1), labels = c(0,TeX(\"\\\\frac{1}{n}\"),1),las=1)\n\ndev.off()\n</pre>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-01-15 08:39",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Dis_Uniform_distribution_CDF.svg\" title=\"File:Dis Uniform distribution CDF.svg\">Dis Uniform distribution CDF.svg</a>:\u00a0<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Dis_Uniform_distribution_CDF.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Dis_Uniform_distribution_CDF.svg/60px-Dis_Uniform_distribution_CDF.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"50\" height=\"38\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Dis_Uniform_distribution_CDF.svg/120px-Dis_Uniform_distribution_CDF.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"360\" data-file-height=\"270\"></a></span><br>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Dis_Uniform_distribution_CDF.svg\" title=\"File:Dis Uniform distribution CDF.svg\">File:Dis Uniform distribution CDF.svg</a>: <a href=\"https://en.wikipedia.org/wiki/User:Pdbailey\" class=\"extiw\" title=\"en:User:Pdbailey\">en:User:Pdbailey</a>, traced by <a href=\"//commons.wikimedia.org/wiki/User:Stannered\" title=\"User:Stannered\">User:Stannered</a>, updated by <a href=\"//commons.wikimedia.org/w/index.php?title=User:%D7%A0%D7%93%D7%91_%D7%A1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:\u05e0\u05d3\u05d1 \u05e1 (page does not exist)\">User:\u05e0\u05d3\u05d1 \u05e1</a></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/w/index.php?title=User:%D7%A0%D7%93%D7%91_%D7%A1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:\u05e0\u05d3\u05d1 \u05e1 (page does not exist)\">\u05e0\u05d3\u05d1 \u05e1</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Discret uniforme distribution CDF 6.svg",
+    "filename": "Discret_uniforme_distribution_CDF_6.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Discret_uniforme_distribution_CDF_6.svg/960px-Discret_uniforme_distribution_CDF_6.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Discret_uniforme_distribution_CDF_6.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-03-07 18:11:41",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Discret uniforme distribution CDF 6",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Uniform distribution|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Fonction de r\u00e9partition d'une loi discr\u00e8te uniforme (n=6)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-03-07",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:HB\" title=\"User:HB\">HB</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Normal exponential qq.svg",
+    "filename": "Normal_exponential_qq.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Normal_exponential_qq.svg/960px-Normal_exponential_qq.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Normal_exponential_qq.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2009-10-20 03:08:21",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Normal exponential qq",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Q-Q plot|Self-published work|Path text SVG|Valid SVG created with Matplotlib",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Normal quantile plot of a set of 100 independent standard exponential values.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2009-10-19",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User_talk:Skbkekas\" title=\"User talk:Skbkekas\">Skbkekas</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Poisson pmf.svg",
+    "filename": "Poisson_pmf.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Poisson_pmf.svg/960px-Poisson_pmf.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Poisson_pmf.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-11-21 03:26:30",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Poisson pmf",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Poisson distribution|Self-published work|Valid SVG created with Matplotlib code",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Plot of the probability mass function for the Poisson distribution.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2010-02-10",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Skbkekas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Skbkekas (page does not exist)\">Skbkekas</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Skewness Statistics.svg",
+    "filename": "Skewness_Statistics.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Negative_and_positive_skew_diagrams_%28English%29.svg/960px-Negative_and_positive_skew_diagrams_%28English%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Negative_and_positive_skew_diagrams_(English).svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-09-27 11:39:29",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Negative and positive skew diagrams (English)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Skewness (statistics)|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Diagrams illustrating negative and positive <a href=\"https://en.wikipedia.org/wiki/skewness\" class=\"extiw\" title=\"w:skewness\">skew</a>. (Created with <a href=\"https://en.wikipedia.org/wiki/Inkscape\" class=\"extiw\" title=\"w:Inkscape\">Inkscape</a>, an <a href=\"https://en.wikipedia.org/wiki/open_source\" class=\"extiw\" title=\"w:open source\">Open Source</a> software, and based on the previous PNG version <a href=\"https://en.wikipedia.org/wiki/File:Skew.png\" class=\"extiw\" title=\"en:File:Skew.png\">en:File:Skew.png</a> with the text removed.)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "16 August 2008 (original upload date).",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>; transferred from <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a> by <a href=\"//commons.wikimedia.org/wiki/User:Rodolfo_Hermans\" title=\"User:Rodolfo Hermans\">Rodolfo Hermans (Godot)</a>.",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:Rodolfo_Hermans\" class=\"extiw\" title=\"en:User:Rodolfo Hermans\">Rodolfo Hermans (Godot)</a> at en.wikipedia.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Uniform cdf.svg",
+    "filename": "Uniform_cdf.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Uniform_cdf.svg/960px-Uniform_cdf.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Uniform_cdf.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-03-26 16:44:57",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Uniform cdf",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Created with LibreOffice Draw|Uniform distribution|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "SVG edition of the CDF of uniform distribution.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2013-07-22 02:41:57",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span><div style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:LibreOffice_7.5_Draw_Icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/LibreOffice_7.5_Draw_Icon.svg/40px-LibreOffice_7.5_Draw_Icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"22\" height=\"22\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/LibreOffice_7.5_Draw_Icon.svg/60px-LibreOffice_7.5_Draw_Icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"32\" data-file-height=\"32\"></a></span>\u00a0This  <a href=\"https://en.wikipedia.org/wiki/drawing\" class=\"extiw\" title=\"w:drawing\">drawing</a> was created with <a href=\"https://en.wikipedia.org/wiki/en:LibreOffice_Draw\" class=\"extiw\" title=\"w:en:LibreOffice Draw\"><span title=\"graphics editing software\">LibreOffice Draw</span></a>.</div>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:IkamusumeFan\" title=\"User:IkamusumeFan\">IkamusumeFan</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Boxplot vs PDF.svg",
+    "filename": "Boxplot_vs_PDF.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Boxplot_vs_PDF.svg/960px-Boxplot_vs_PDF.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Boxplot_vs_PDF.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-12-02 20:54:18",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Boxplot vs PDF",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Box plots|Interquartile range|Valid SVG|Files allowed to be overwritten by everyone|SVG retouched pictures from raster|SVG normal distribution",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Boxplot and a <a href=\"https://en.wikipedia.org/wiki/probability_density_function\" class=\"extiw\" title=\"en:probability density function\">probability density function</a> (pdf) of a Normal N(0,1\u03c3<sup>2</sup>) Population.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2011-03-09",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Boxplot_vs_PDF.png\" title=\"File:Boxplot vs PDF.png\">File:Boxplot vs PDF.png</a></li></ul>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<ul><li>Original uploader was <a href=\"https://en.wikipedia.org/wiki/User:Jhguch\" class=\"extiw\" title=\"en:User:Jhguch\">Jhguch</a> at <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>;</li>\n<li>Derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Chen-Pan_Liao\" title=\"User:Chen-Pan Liao\">Chen-Pan Liao</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Chen-Pan_Liao\" title=\"User talk:Chen-Pan Liao\"><span class=\"signature-talk\">talk</span></a>).</li></ul>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 2.5",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/User:Jhguch\" class=\"extiw\" title=\"en:User:Jhguch\">Jhguch</a> at <a class=\"external text\" data-mw-original-href=\"http://en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-2.5",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  {
+    "title": "File:Normal Distribution PDF.svg",
+    "filename": "Normal_Distribution_PDF.svg.png",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/960px-Normal_Distribution_PDF.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Normal_Distribution_PDF.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-12-27 23:40:51",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Normal Distribution PDF",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images with Mathematica source code|Self-published work|PD-self|Translation possible - SVG|Files allowed to be overwritten by everyone|Images with Python source code|Images with R source code|Valid SVG created with Mathematica:Charts|SVG normal distribution",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A selection of Normal Distribution Probability Density Functions (PDFs). Both the mean, <i>\u03bc</i>, and variance, <i>\u03c3\u00b2</i>, are varied. The key is given on the graph.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2008-04-02",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> (<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\">self-made, Mathematica, Inkscape</bdi></i></span>)",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Inductiveload\" title=\"User:Inductiveload\">Inductiveload</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+]
