@@ -14,7 +14,7 @@ The current completed content is inside `machine_learning/`.
 |---|---|
 | `machine_learning/` | Existing ML notebooks, datasets, images, visuals, and validation files. |
 | `machine_learning/modules/` | Module-wise Machine Learning notebooks. |
-| `deep_learning/` | Placeholder folder for the future Deep Learning curriculum. |
+| `deep_learning/` | Deep Learning curriculum plan and module notebooks. |
 | `generative_ai/` | Placeholder folder for the future Generative AI curriculum. |
 | `Requirements.txt` | Python packages used by the current notebooks. |
 
@@ -37,6 +37,12 @@ Open the ML module index here: [machine_learning/modules/README.md](machine_lear
 
 The original combined notebook is here: [machine_learning/ML_Learning.ipynb](machine_learning/ML_Learning.ipynb).
 
+
+## Current Deep Learning Curriculum
+
+Open the DL curriculum plan here: [deep_learning/README.md](deep_learning/README.md).
+
+Open the DL module index here: [deep_learning/modules/README.md](deep_learning/modules/README.md).
 ## Setup
 
 Create and activate a project-level virtual environment:
@@ -61,4 +67,5 @@ definition → where used → why used → intuition → formula → dataset exa
 ## Notes
 
 - Local environments, caches, downloaded dataset folders, and secret files are ignored by Git.
-- Deep Learning and Generative AI folders are intentionally empty except for their README files until their detailed module structures are finalized.
+- Deep Learning now has its curriculum map and Module 01 foundation notebook. Generative AI remains prepared for later planning.
+
