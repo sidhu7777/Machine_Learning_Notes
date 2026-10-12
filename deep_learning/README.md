@@ -13,23 +13,23 @@ definition → where used → why used → intuition → formula → visual → 
 | Module | Notebook | Status |
 |---|---|---|
 | 01 | [Deep Learning Foundations](modules/Module_01_Deep_Learning_Foundations.ipynb) | Created |
-| 02 | Math for Deep Learning | Planned |
-| 03 | Neurons, Perceptrons, and Multilayer Perceptrons | Planned |
-| 04 | Forward Pass, Activations, Loss Functions, and Output Layers | Planned |
-| 05 | Backpropagation, Computational Graphs, and Automatic Differentiation | Planned |
-| 06 | Gradient Descent, Optimizers, and Learning Rate Strategy | Planned |
-| 07 | Practical Training Methodology for Deep Networks | Planned |
-| 08 | Initialization, Regularization, Normalization, and Stabilization | Planned |
-| 09 | Computer Vision with Convolutional Neural Networks | Planned |
-| 10 | Modern CNN Architectures and Transfer Learning | Planned |
-| 11 | Sequence Modeling with RNN, LSTM, and GRU | Planned |
-| 12 | Attention and Transformer Foundations | Planned |
-| 13 | Embeddings, Autoencoders, and Representation Learning | Planned |
-| 14 | Generative Deep Learning Models | Planned |
-| 15 | Graph Neural Networks | Planned |
-| 16 | Deep Reinforcement Learning | Planned |
-| 17 | Deep Learning Evaluation, Debugging, and Interpretability | Planned |
-| 18 | Deployment, Compression, Acceleration, and MLOps for Deep Learning | Planned |
+| 02 | [Math for Deep Learning](modules/Module_02_Math_for_Deep_Learning.ipynb) | Created |
+| 03 | [Neurons, Perceptrons, and Multilayer Perceptrons](modules/Module_03_Neurons_Perceptrons_and_MLPs.ipynb) | Created |
+| 04 | [Forward Pass, Activations, Loss Functions, and Output Layers](modules/Module_04_Forward_Pass_Activations_Losses_and_Output_Layers.ipynb) | Created |
+| 05 | [Backpropagation, Computational Graphs, and Automatic Differentiation](modules/Module_05_Backpropagation_Computational_Graphs_and_Autodiff.ipynb) | Created |
+| 06 | [Gradient Descent, Optimizers, and Learning Rate Strategy](modules/Module_06_Gradient_Descent_Optimizers_and_Learning_Rate_Strategy.ipynb) | Created |
+| 07 | [Practical Training Methodology for Deep Networks](modules/Module_07_Practical_Training_Methodology.ipynb) | Created |
+| 08 | [Initialization, Regularization, Normalization, and Stabilization](modules/Module_08_Initialization_Regularization_Normalization_and_Stabilization.ipynb) | Created |
+| 09 | [Computer Vision with Convolutional Neural Networks](modules/Module_09_Computer_Vision_with_CNNs.ipynb) | Created |
+| 10 | [Modern CNN Architectures and Transfer Learning](modules/Module_10_Modern_CNN_Architectures_and_Transfer_Learning.ipynb) | Created |
+| 11 | [Sequence Modeling with RNN, LSTM, and GRU](modules/Module_11_Sequence_Modeling_RNN_LSTM_GRU.ipynb) | Created |
+| 12 | [Attention and Transformer Foundations](modules/Module_12_Attention_and_Transformer_Foundations.ipynb) | Created |
+| 13 | [Embeddings, Autoencoders, and Representation Learning](modules/Module_13_Embeddings_Autoencoders_and_Representation_Learning.ipynb) | Created |
+| 14 | [Generative Deep Learning Models](modules/Module_14_Generative_Deep_Learning_Models.ipynb) | Created |
+| 15 | [Graph Neural Networks](modules/Module_15_Graph_Neural_Networks.ipynb) | Created |
+| 16 | [Deep Reinforcement Learning](modules/Module_16_Deep_Reinforcement_Learning.ipynb) | Created |
+| 17 | [Deep Learning Evaluation, Debugging, and Interpretability](modules/Module_17_Evaluation_Debugging_and_Interpretability.ipynb) | Created |
+| 18 | [Deployment, Compression, Acceleration, and MLOps for Deep Learning](modules/Module_18_Deployment_Compression_Acceleration_and_MLOps.ipynb) | Created |
 
 ## Complete Deep Learning Module Plan
 
